@@ -38,6 +38,14 @@ export const projects: Project[] = [
     year: 2026,
   },
   {
+    name: "Reinforcement Learning slides",
+    url: "https://rl-slides.byjj.dev",
+    description:
+      "Web slides for the RL module of the UPC School AIDL postgraduate: MDPs, Q-learning, DQN, policy gradients and PPO.",
+    tags: ["Teaching", "RL"],
+    year: 2026,
+  },
+  {
     name: "Political Spectrum",
     url: "https://spectrum.byjj.dev",
     description:
